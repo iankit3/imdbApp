@@ -1,0 +1,900 @@
+[  
+   {  
+      "date":"October 2 ",
+      "movies":[  
+         {  
+            "countries":[  
+               "China",
+               "USA"
+            ],
+            "directors":[  
+               {  
+                  "name":"Mikael Håfström",
+                  "nameId":"nm0405632"
+               }
+            ],
+            "filmingLocations":[  
+               "Bangkok",
+               "Thailand"
+            ],
+            "genres":[  
+               "Drama",
+               "Mystery",
+               "Romance",
+               "Thriller"
+            ],
+            "idIMDB":"tt1092634",
+            "languages":[  
+               "English",
+               "Mandarin",
+               "Japanese",
+               "German"
+            ],
+            "metascore":"",
+            "originalTitle":"",
+            "plot":"An American man returns to a corrupt, Japanese-occupied Shanghai four months before Pearl Harbor and discovers his friend has been killed. While he unravels the mysteries of the death, he falls in love and discovers a much larger secret.",
+            "rated":"R",
+            "rating":"6.5",
+            "releaseDate":"20100617",
+            "runtime":[  
+               "105 min"
+            ],
+            "simplePlot":"A '40s period piece which revolves around an American expat who returns to Shanghai in the months before Pearl Harbor due to the death of his friend.",
+            "title":"Shanghai",
+            "type":"Movie",
+            "urlIMDB":"http://www.imdb.com/title/tt1092634",
+            "urlPoster":"http://ia.media-imdb.com/images/M/MV5BMjA0NzMzOTY3MF5BMl5BanBnXkFtZTgwMjA3NDY2NjE@._V1_SX214_AL_.jpg",
+            "votes":"6,966",
+            "writers":[  
+               {  
+                  "name":"Hossein Amini",
+                  "nameId":"nm0024925"
+               }
+            ],
+            "year":"2010"
+         },
+         {  
+            "countries":[  
+               "United Arab Emirates",
+               "USA"
+            ],
+            "directors":[  
+               {  
+                  "name":"Davis Guggenheim",
+                  "nameId":"nm0346550"
+               }
+            ],
+            "filmingLocations":[  
+
+            ],
+            "genres":[  
+               "Documentary"
+            ],
+            "idIMDB":"tt3065132",
+            "languages":[  
+               "English"
+            ],
+            "metascore":"59/100",
+            "originalTitle":"",
+            "plot":"A look at the events leading up to the Talibans' attack on the young Pakistani school girl, Malala Yousafzai, for speaking out on girls' education and the aftermath, including her speech to the United Nations.",
+            "rated":"PG-13",
+            "rating":"6.0",
+            "releaseDate":"20151002",
+            "runtime":[  
+               "87 min"
+            ],
+            "simplePlot":"A look at the events leading up to the Talibans' attack on the young Pakistani school girl, Malala Yousafzai, for speaking out on girls' education and the aftermath, including her speech to the United Nations.",
+            "title":"He Named Me Malala",
+            "type":"Movie",
+            "urlIMDB":"http://www.imdb.com/title/tt3065132",
+            "urlPoster":"http://ia.media-imdb.com/images/M/MV5BMjQwODg2NDIyN15BMl5BanBnXkFtZTgwMTI4NDMwNjE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+            "votes":"196",
+            "writers":[  
+
+            ],
+            "year":"2015"
+         },
+         {  
+            "countries":[  
+               "USA"
+            ],
+            "directors":[  
+               {  
+                  "name":"Ridley Scott",
+                  "nameId":"nm0000631"
+               }
+            ],
+            "filmingLocations":[  
+               "Hungary"
+            ],
+            "genres":[  
+               "Action",
+               "Adventure",
+               "Sci-Fi"
+            ],
+            "idIMDB":"tt3659388",
+            "languages":[  
+               "English"
+            ],
+            "metascore":"73/100",
+            "originalTitle":"",
+            "plot":"During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive. Millions of miles away, NASA and a team of international scientists work tirelessly to bring \"the Martian\" home, while his crewmates concurrently plot a daring, if not impossible, rescue mission. As these stories of incredible bravery unfold, the world comes together to root for Watney's safe return. Based on a best-selling novel.",
+            "rated":"PG-13",
+            "rating":"8.6",
+            "releaseDate":"20151002",
+            "runtime":[  
+               "141 min"
+            ],
+            "simplePlot":"During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
+            "title":"The Martian",
+            "type":"Movie",
+            "urlIMDB":"http://www.imdb.com/title/tt3659388",
+            "urlPoster":"http://ia.media-imdb.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+            "votes":"3,431",
+            "writers":[  
+               {  
+                  "name":"Drew Goddard",
+                  "nameId":"nm1206844"
+               },
+               {  
+                  "name":"Andy Weir",
+                  "nameId":"nm1083982"
+               }
+            ],
+            "year":"2015"
+         },
+         {  
+            "countries":[  
+               "USA"
+            ],
+            "directors":[  
+               {  
+                  "name":"Peter Sollett",
+                  "nameId":"nm0813164"
+               }
+            ],
+            "filmingLocations":[  
+               "Town of North Hempstead",
+               "Town Hall",
+               "220 Plandome Road",
+               "Manhasset",
+               "New York",
+               "USA"
+            ],
+            "genres":[  
+               "Biography",
+               "Drama",
+               "Romance"
+            ],
+            "idIMDB":"tt1658801",
+            "languages":[  
+               "English"
+            ],
+            "metascore":"39/100",
+            "originalTitle":"",
+            "plot":"New Jersey police lieutenant, Laurel Hester, and her registered domestic partner, Stacie Andree, both battle to secure Hester's pension benefits when she is diagnosed with terminal cancer.",
+            "rated":"PG-13",
+            "rating":"6.1",
+            "releaseDate":"20151002",
+            "runtime":[  
+               "103 min"
+            ],
+            "simplePlot":"New Jersey police lieutenant, Laurel Hester, and her registered domestic partner, Stacie Andree, both battle to secure Hester's pension benefits when she is diagnosed with terminal cancer.",
+            "title":"Freeheld",
+            "type":"Movie",
+            "urlIMDB":"http://www.imdb.com/title/tt1658801",
+            "urlPoster":"http://ia.media-imdb.com/images/M/MV5BMzM5NTg3NjU1MV5BMl5BanBnXkFtZTgwNzAwMjA3NjE@._V1_SX214_AL_.jpg",
+            "votes":"205",
+            "writers":[  
+               {  
+                  "name":"Ron Nyswaner",
+                  "nameId":"nm0638913"
+               }
+            ],
+            "year":"2015"
+         },
+         {  
+            "countries":[  
+               "USA"
+            ],
+            "directors":[  
+               {  
+                  "name":"Robert Zemeckis",
+                  "nameId":"nm0000709"
+               }
+            ],
+            "filmingLocations":[  
+               "Montréal",
+               "Québec",
+               "Canada"
+            ],
+            "genres":[  
+               "Adventure",
+               "Biography",
+               "Drama",
+               "Thriller"
+            ],
+            "idIMDB":"tt3488710",
+            "languages":[  
+               "English"
+            ],
+            "metascore":"",
+            "originalTitle":"",
+            "plot":"Twelve people have walked on the moon, but only one man - Philippe Petit (Joseph Gordon-Levitt) - has ever, or will ever, walk in the immense void between the World Trade Center towers. Guided by his real-life mentor, Papa Rudy (Ben Kingsley), and aided by an unlikely band of international recruits, Petit and his gang overcome long odds, betrayals, dissension and countless close calls to conceive and execute their mad plan. Robert Zemeckis, the director of such marvels as Forrest Gump, Cast Away, Back to the Future, Polar Express and Flight, again uses cutting edge technology in the service of an emotional, character-driven story. With innovative photorealistic techniques and IMAX 3D wizardry, The Walk is true big-screen cinema, a chance for moviegoers to viscerally experience the feeling of reaching the clouds. The film, a PG-rated, all-audience entertainment for moviegoers 8 to 80, unlike anything audiences have seen before, is a love letter to Paris and New York City in the 1970s, ...",
+            "rated":"PG",
+            "rating":"8.6",
+            "releaseDate":"20151009",
+            "runtime":[  
+               "123 min"
+            ],
+            "simplePlot":"In 1974, high-wire artist Philippe Petit recruits a team of people to help him realize his dream: to walk the the immense void between the World Trade Center towers.",
+            "title":"The Walk",
+            "type":"Movie",
+            "urlIMDB":"http://www.imdb.com/title/tt3488710",
+            "urlPoster":"http://ia.media-imdb.com/images/M/MV5BMTU5MDgyNDgzM15BMl5BanBnXkFtZTgwNDA1MjI0NTE@._V1_SX214_AL_.jpg",
+            "votes":"343",
+            "writers":[  
+               {  
+                  "name":"Robert Zemeckis",
+                  "nameId":"nm0000709"
+               },
+               {  
+                  "name":"Christopher Browne",
+                  "nameId":"nm1358613"
+               }
+            ],
+            "year":"2015"
+         },
+         {  
+            "countries":[  
+               "USA"
+            ],
+            "directors":[  
+               {  
+                  "name":"Jamie Babbit",
+                  "nameId":"nm0044803"
+               }
+            ],
+            "filmingLocations":[  
+               "Fresno",
+               "California",
+               "USA"
+            ],
+            "genres":[  
+               "Comedy"
+            ],
+            "idIMDB":"tt4000870",
+            "languages":[  
+               "English"
+            ],
+            "metascore":"",
+            "originalTitle":"",
+            "plot":"This comedy tells the story of two sisters, a lesbian and a sex-addict, who work as maids at a hotel in a city named Fresno. Their lives change when one of the sisters thinks that they might have accidentally killed a man.",
+            "rated":"",
+            "rating":"5.5",
+            "releaseDate":"20150901",
+            "runtime":[  
+               "85 min"
+            ],
+            "simplePlot":"Follows the lives two co-dependent sisters who work as hotel maids in Fresno.",
+            "title":"Addicted to Fresno",
+            "type":"Movie",
+            "urlIMDB":"http://www.imdb.com/title/tt4000870",
+            "urlPoster":"http://ia.media-imdb.com/images/M/MV5BOTMxMzY0ODM2NV5BMl5BanBnXkFtZTgwODA3MDI1NjE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+            "votes":"543",
+            "writers":[  
+               {  
+                  "name":"Karey Dornetto",
+                  "nameId":"nm1058228"
+               }
+            ],
+            "year":"2015"
+         },
+         {  
+            "countries":[  
+               "Australia"
+            ],
+            "directors":[  
+               {  
+                  "name":"Ariel Kleiman",
+                  "nameId":"nm3510385"
+               }
+            ],
+            "filmingLocations":[  
+               "Morning Star Estate",
+               "Mount Eliza",
+               "Victoria",
+               "Australia"
+            ],
+            "genres":[  
+               "Drama",
+               "Thriller"
+            ],
+            "idIMDB":"tt3155242",
+            "languages":[  
+               "English"
+            ],
+            "metascore":"60/100",
+            "originalTitle":"",
+            "plot":"Alexander, a boy who has been raised in a sequestered commune, finds that his increasing unwillingness to fall in line puts him on a collision course with Gregori, the society's charismatic and domineering leader.",
+            "rated":"12",
+            "rating":"6.8",
+            "releaseDate":"20151002",
+            "runtime":[  
+               "98 min"
+            ],
+            "simplePlot":"Alexander, a boy who has been raised in a sequestered commune, finds that his increasing unwillingness to fall in line puts him on a collision course with Gregori, the society's charismatic and domineering leader.",
+            "title":"Partisan",
+            "type":"Movie",
+            "urlIMDB":"http://www.imdb.com/title/tt3155242",
+            "urlPoster":"http://ia.media-imdb.com/images/M/MV5BODUwMDI4NDgyOF5BMl5BanBnXkFtZTgwODIyNDU3NjE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+            "votes":"289",
+            "writers":[  
+               {  
+                  "name":"Sarah Cyngler",
+                  "nameId":"nm3516481"
+               },
+               {  
+                  "name":"Ariel Kleiman",
+                  "nameId":"nm3510385"
+               }
+            ],
+            "year":"2015"
+         },
+         {  
+            "countries":[  
+               "USA"
+            ],
+            "directors":[  
+               {  
+                  "name":"Denis Villeneuve",
+                  "nameId":"nm0898288"
+               }
+            ],
+            "filmingLocations":[  
+               "Albuquerque",
+               "New Mexico",
+               "USA"
+            ],
+            "genres":[  
+               "Action",
+               "Crime",
+               "Drama",
+               "Mystery",
+               "Thriller"
+            ],
+            "idIMDB":"tt3397884",
+            "languages":[  
+               "English",
+               "Spanish"
+            ],
+            "metascore":"82/100",
+            "originalTitle":"",
+            "plot":"An idealistic FBI agent is enlisted by an elected government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+            "rated":"R",
+            "rating":"8.0",
+            "releaseDate":"20151002",
+            "runtime":[  
+               "121 min"
+            ],
+            "simplePlot":"An idealistic FBI agent is enlisted by an elected government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+            "title":"Sicario",
+            "type":"Movie",
+            "urlIMDB":"http://www.imdb.com/title/tt3397884",
+            "urlPoster":"http://ia.media-imdb.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_SX214_AL_.jpg",
+            "votes":"8,458",
+            "writers":[  
+               {  
+                  "name":"Taylor Sheridan",
+                  "nameId":"nm0792263"
+               }
+            ],
+            "year":"2015"
+         }
+      ]
+   },
+   {  
+      "date":"In Theaters Now",
+      "movies":[  
+         {  
+            "countries":[  
+               "USA"
+            ],
+            "directors":[  
+               {  
+                  "name":"Genndy Tartakovsky",
+                  "nameId":"nm0850733"
+               }
+            ],
+            "filmingLocations":[  
+
+            ],
+            "genres":[  
+               "Animation",
+               "Comedy",
+               "Family",
+               "Fantasy"
+            ],
+            "idIMDB":"tt2510894",
+            "languages":[  
+               "English"
+            ],
+            "metascore":"43/100",
+            "originalTitle":"",
+            "plot":"The Drac pack is back for an all-new monster comedy adventure in Sony Pictures Animation's Hotel Transylvania 2! Everything seems to be changing for the better at Hotel Transylvania... Dracula's rigid monster-only hotel policy has finally relaxed, opening up its doors to human guests. But behind closed coffins, Drac is worried that his adorable half-human, half-vampire grandson, Dennis, isn't showing signs of being a vampire. So while Mavis is busy visiting her human in-laws with Johnny - and in for a major cultural shock of her own - \"Vampa\" Drac enlists his friends Frank, Murray, Wayne and Griffin to put Dennis through a \"monster-in-training\" boot camp. But little do they know that Drac's grumpy and very old, old, old school dad Vlad is about to pay a family visit to the hotel. And when Vlad finds out that his great-grandson is not a pure blood - and humans are now welcome at Hotel Transylvania - things are going to get batty!",
+            "rated":"PG",
+            "rating":"7.3",
+            "releaseDate":"20150925",
+            "runtime":[  
+               "89 min"
+            ],
+            "simplePlot":"Dracula and his friends try to bring out the monster in his half human, half vampire grandson in order to keep Mavis from leaving the hotel.",
+            "title":"Hotel Transylvania 2",
+            "type":"Movie",
+            "urlIMDB":"http://www.imdb.com/title/tt2510894",
+            "urlPoster":"http://ia.media-imdb.com/images/M/MV5BMjEzNzc4NzEyMV5BMl5BanBnXkFtZTgwMTAxMDQ2NTE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+            "votes":"2,489",
+            "writers":[  
+               {  
+                  "name":"Adam Sandler",
+                  "nameId":"nm0001191"
+               },
+               {  
+                  "name":"Robert Smigel",
+                  "nameId":"nm0806912"
+               }
+            ],
+            "year":"2015"
+         },
+         {  
+            "countries":[  
+               "USA"
+            ],
+            "directors":[  
+               {  
+                  "name":"Nancy Meyers",
+                  "nameId":"nm0583600"
+               }
+            ],
+            "filmingLocations":[  
+               "Cheever Place",
+               "Carroll Gardens",
+               "Brooklyn",
+               "New York",
+               "USA"
+            ],
+            "genres":[  
+               "Comedy"
+            ],
+            "idIMDB":"tt2361509",
+            "languages":[  
+               "English"
+            ],
+            "metascore":"52/100",
+            "originalTitle":"",
+            "plot":"70-year-old widower Ben Whittaker has discovered that retirement isn't all it's cracked up to be. Seizing an opportunity to get back in the game, he becomes a senior intern at an online fashion site, founded and run by Jules Ostin.",
+            "rated":"PG-13",
+            "rating":"7.6",
+            "releaseDate":"20150925",
+            "runtime":[  
+               "121 min"
+            ],
+            "simplePlot":"70-year-old widower Ben Whittaker has discovered that retirement isn't all it's cracked up to be. Seizing an opportunity to get back in the game, he becomes a senior intern at an online fashion site, founded and run by Jules Ostin.",
+            "title":"The Intern",
+            "type":"Movie",
+            "urlIMDB":"http://www.imdb.com/title/tt2361509",
+            "urlPoster":"http://ia.media-imdb.com/images/M/MV5BMTUyNjE5NjI5OF5BMl5BanBnXkFtZTgwNzYzMzU3NjE@._V1_SX214_AL_.jpg",
+            "votes":"4,740",
+            "writers":[  
+               {  
+                  "name":"Nancy Meyers",
+                  "nameId":"nm0583600"
+               }
+            ],
+            "year":"2015"
+         },
+         {  
+            "countries":[  
+               "UK",
+               "USA",
+               "Iceland"
+            ],
+            "directors":[  
+               {  
+                  "name":"Baltasar Kormákur",
+                  "nameId":"nm0466349"
+               }
+            ],
+            "filmingLocations":[  
+               "Val Senales",
+               "Trentino-Alto Adige",
+               "Italy"
+            ],
+            "genres":[  
+               "Adventure",
+               "Biography",
+               "Drama",
+               "History",
+               "Thriller"
+            ],
+            "idIMDB":"tt2719848",
+            "languages":[  
+               "English"
+            ],
+            "metascore":"64/100",
+            "originalTitle":"",
+            "plot":"On the morning of May 10, 1996, climbers (Jason Clarke, Josh Brolin) from two expeditions start their final ascent toward the summit of Mount Everest, the highest point on Earth. With little warning, a violent storm strikes the mountain, engulfing the adventurers in one of the fiercest blizzards ever encountered by man. Challenged by the harshest conditions imaginable, the teams must endure blistering winds and freezing temperatures in an epic battle to survive against nearly impossible odds.",
+            "rated":"PG-13",
+            "rating":"7.4",
+            "releaseDate":"20150925",
+            "runtime":[  
+               "121 min"
+            ],
+            "simplePlot":"A climbing expedition on Mt. Everest is devastated by a severe snow storm.",
+            "title":"Everest",
+            "type":"Movie",
+            "urlIMDB":"http://www.imdb.com/title/tt2719848",
+            "urlPoster":"http://ia.media-imdb.com/images/M/MV5BMjMzMjIxOTIxMl5BMl5BanBnXkFtZTgwNTk4NDI0NjE@._V1_SX214_AL_.jpg",
+            "votes":"24,511",
+            "writers":[  
+               {  
+                  "name":"William Nicholson",
+                  "nameId":"nm0629933"
+               },
+               {  
+                  "name":"Simon Beaufoy",
+                  "nameId":"nm0064479"
+               }
+            ],
+            "year":"2015"
+         },
+         {  
+            "countries":[  
+               "USA"
+            ],
+            "directors":[  
+               {  
+                  "name":"Scott Cooper",
+                  "nameId":"nm0178376"
+               }
+            ],
+            "filmingLocations":[  
+               "Harvard Club of Boston",
+               "374 Commonwealth Ave",
+               "Boston",
+               "Massachusetts",
+               "USA"
+            ],
+            "genres":[  
+               "Biography",
+               "Crime",
+               "Drama"
+            ],
+            "idIMDB":"tt1355683",
+            "languages":[  
+               "English"
+            ],
+            "metascore":"68/100",
+            "originalTitle":"",
+            "plot":"John Connolly and James \"Whitey\" Bulger grew up together on the streets of South Boston. Decades later, in the late 1970s, they would meet again. By then, Connolly was a major figure in the FBI's Boston office and Whitey had become godfather of the Irish Mob. What happened between them - a dirty deal to trade secrets and take down Boston's Italian Mafia in the process - would spiral out of control, leading to murders, drug dealing, racketeering indictments, and, ultimately, to Bulger making the FBI's Ten Most Wanted List.",
+            "rated":"R",
+            "rating":"7.8",
+            "releaseDate":"20150918",
+            "runtime":[  
+               "122 min"
+            ],
+            "simplePlot":"The true story of Whitey Bulger, the brother of a state senator and the most infamous violent criminal in the history of South Boston, who became an FBI informant to take down a Mafia family invading his turf.",
+            "title":"Black Mass",
+            "type":"Movie",
+            "urlIMDB":"http://www.imdb.com/title/tt1355683",
+            "urlPoster":"http://ia.media-imdb.com/images/M/MV5BNzg0ODI3NDQxNF5BMl5BanBnXkFtZTgwMzgzNDA0NjE@._V1_SX214_AL_.jpg",
+            "votes":"13,771",
+            "writers":[  
+               {  
+                  "name":"Mark Mallouk",
+                  "nameId":"nm3286851"
+               },
+               {  
+                  "name":"Jez Butterworth",
+                  "nameId":"nm0125336"
+               }
+            ],
+            "year":"2015"
+         },
+         {  
+            "countries":[  
+               "USA"
+            ],
+            "directors":[  
+               {  
+                  "name":"Wes Ball",
+                  "nameId":"nm1226871"
+               }
+            ],
+            "filmingLocations":[  
+               "New Mexico",
+               "USA"
+            ],
+            "genres":[  
+               "Action",
+               "Sci-Fi",
+               "Thriller"
+            ],
+            "idIMDB":"tt4046784",
+            "languages":[  
+               "English"
+            ],
+            "metascore":"43/100",
+            "originalTitle":"",
+            "plot":"In this next chapter of the epic \"Maze Runner\" saga, Thomas (Dylan O'Brien) and his fellow Gladers face their greatest challenge yet: searching for clues about the mysterious and powerful organization known as WCKD. Their journey takes them to the Scorch, a desolate landscape filled with unimaginable obstacles. Teaming up with resistance fighters, the Gladers take on WCKD's vastly superior forces and uncover its shocking plans for them all.",
+            "rated":"PG-13",
+            "rating":"7.1",
+            "releaseDate":"20150918",
+            "runtime":[  
+               "132 min"
+            ],
+            "simplePlot":"After having escaped the Maze, the Gladers now face a new set of challenges on the open roads of a desolate landscape filled with unimaginable obstacles.",
+            "title":"Maze Runner: The Scorch Trials",
+            "type":"Movie",
+            "urlIMDB":"http://www.imdb.com/title/tt4046784",
+            "urlPoster":"http://ia.media-imdb.com/images/M/MV5BMjE3MDU2NzQyMl5BMl5BanBnXkFtZTgwMzQxMDQ3NTE@._V1_SX214_AL_.jpg",
+            "votes":"26,085",
+            "writers":[  
+               {  
+                  "name":"T.S. Nowlin",
+                  "nameId":"nm2385905"
+               },
+               {  
+                  "name":"James Dashner",
+                  "nameId":"nm4212895"
+               }
+            ],
+            "year":"2015"
+         },
+         {  
+            "countries":[  
+               "USA"
+            ],
+            "directors":[  
+               {  
+                  "name":"David M. Rosenthal",
+                  "nameId":"nm1270033"
+               }
+            ],
+            "filmingLocations":[  
+               "Los Angeles",
+               "California",
+               "USA"
+            ],
+            "genres":[  
+               "Drama",
+               "Thriller"
+            ],
+            "idIMDB":"tt3862750",
+            "languages":[  
+               "English"
+            ],
+            "metascore":"36/100",
+            "originalTitle":"",
+            "plot":"After a painful breakup, successful lobbyist Leah Vaughn (Sanaa Lathan) jumps into a passionate relationship with a charming stranger (Michael Ealy). When her ex-boyfriend (Morris Chestnut) resurfaces in her life she has to figure out who she should trust and who she should fear.",
+            "rated":"PG-13",
+            "rating":"5.1",
+            "releaseDate":"20150911",
+            "runtime":[  
+               "100 min"
+            ],
+            "simplePlot":"After breaking up with her boyfriend, a professional woman gets involved with a man who seems almost too good to be true.",
+            "title":"The Perfect Guy",
+            "type":"Movie",
+            "urlIMDB":"http://www.imdb.com/title/tt3862750",
+            "urlPoster":"http://ia.media-imdb.com/images/M/MV5BMjA4NzcwMTkzMF5BMl5BanBnXkFtZTgwMDAwNDUxNjE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+            "votes":"1,651",
+            "writers":[  
+               {  
+                  "name":"Alan B. McElroy",
+                  "nameId":"nm0568416"
+               },
+               {  
+                  "name":"Tyger Williams",
+                  "nameId":"nm0931862"
+               }
+            ],
+            "year":"2015"
+         },
+         {  
+            "countries":[  
+               "USA"
+            ],
+            "directors":[  
+               {  
+                  "name":"M. Night Shyamalan",
+                  "nameId":"nm0796117"
+               }
+            ],
+            "filmingLocations":[  
+               "Philadelphia",
+               "Pennsylvania",
+               "USA"
+            ],
+            "genres":[  
+               "Comedy",
+               "Horror"
+            ],
+            "idIMDB":"tt3567288",
+            "languages":[  
+               "English"
+            ],
+            "metascore":"55/100",
+            "originalTitle":"",
+            "plot":"Two children are sent to their grandparents house to spend a week with their grandparents while their single mom goes on a relaxing vacation with her boyfriend. One of the kids, Becca, decides to film a documentary about her grandparents in order to help her mom reconnect with her parents and also find out some things about her parents as well. While filming the documentary, however, Becca and her little brother, Tyler, discover a dark secret about their grandparents.",
+            "rated":"PG-13",
+            "rating":"6.6",
+            "releaseDate":"20150911",
+            "runtime":[  
+               "94 min"
+            ],
+            "simplePlot":"A single mother finds that things in her family's life go very wrong after her two young children visit their grandparents.",
+            "title":"The Visit",
+            "type":"Movie",
+            "urlIMDB":"http://www.imdb.com/title/tt3567288",
+            "urlPoster":"http://ia.media-imdb.com/images/M/MV5BMTg3OTM2OTc5MV5BMl5BanBnXkFtZTgwMjMxNDM0NTE@._V1_SX214_AL_.jpg",
+            "votes":"14,686",
+            "writers":[  
+               {  
+                  "name":"M. Night Shyamalan",
+                  "nameId":"nm0796117"
+               }
+            ],
+            "year":"2015"
+         },
+         {  
+            "countries":[  
+               "Chile",
+               "USA"
+            ],
+            "directors":[  
+               {  
+                  "name":"Eli Roth",
+                  "nameId":"nm0744834"
+               }
+            ],
+            "filmingLocations":[  
+               "Santiago",
+               "Chile"
+            ],
+            "genres":[  
+               "Adventure",
+               "Horror"
+            ],
+            "idIMDB":"tt2403021",
+            "languages":[  
+               "English"
+            ],
+            "metascore":"38/100",
+            "originalTitle":"",
+            "plot":"A group of student activists travels to the Amazon to save the rain forest and soon discover that they are not alone, and that no good deed goes unpunished.",
+            "rated":"R",
+            "rating":"5.8",
+            "releaseDate":"20150925",
+            "runtime":[  
+               "100 min"
+            ],
+            "simplePlot":"A group of student activists travels to the Amazon to save the rain forest and soon discover that they are not alone, and that no good deed goes unpunished.",
+            "title":"The Green Inferno",
+            "type":"Movie",
+            "urlIMDB":"http://www.imdb.com/title/tt2403021",
+            "urlPoster":"http://ia.media-imdb.com/images/M/MV5BMTE0MjgzMjk5MzdeQTJeQWpwZ15BbWU4MDM5OTM1MTYx._V1_SY317_CR0,0,214,317_AL_.jpg",
+            "votes":"3,282",
+            "writers":[  
+               {  
+                  "name":"Guillermo Amoedo",
+                  "nameId":"nm3771227"
+               },
+               {  
+                  "name":"Eli Roth",
+                  "nameId":"nm0744834"
+               }
+            ],
+            "year":"2013"
+         },
+         {  
+            "countries":[  
+               "USA"
+            ],
+            "directors":[  
+               {  
+                  "name":"Denis Villeneuve",
+                  "nameId":"nm0898288"
+               }
+            ],
+            "filmingLocations":[  
+               "Albuquerque",
+               "New Mexico",
+               "USA"
+            ],
+            "genres":[  
+               "Action",
+               "Crime",
+               "Drama",
+               "Mystery",
+               "Thriller"
+            ],
+            "idIMDB":"tt3397884",
+            "languages":[  
+               "English",
+               "Spanish"
+            ],
+            "metascore":"82/100",
+            "originalTitle":"",
+            "plot":"An idealistic FBI agent is enlisted by an elected government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+            "rated":"R",
+            "rating":"8.0",
+            "releaseDate":"20151002",
+            "runtime":[  
+               "121 min"
+            ],
+            "simplePlot":"An idealistic FBI agent is enlisted by an elected government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+            "title":"Sicario",
+            "type":"Movie",
+            "urlIMDB":"http://www.imdb.com/title/tt3397884",
+            "urlPoster":"http://ia.media-imdb.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_SX214_AL_.jpg",
+            "votes":"8,458",
+            "writers":[  
+               {  
+                  "name":"Taylor Sheridan",
+                  "nameId":"nm0792263"
+               }
+            ],
+            "year":"2015"
+         },
+         {  
+            "countries":[  
+               "USA"
+            ],
+            "directors":[  
+               {  
+                  "name":"Alex Kendrick",
+                  "nameId":"nm1731937"
+               }
+            ],
+            "filmingLocations":[  
+               "North Carolina",
+               "USA"
+            ],
+            "genres":[  
+               "Drama"
+            ],
+            "idIMDB":"tt3832914",
+            "languages":[  
+               "English"
+            ],
+            "metascore":"26/100",
+            "originalTitle":"",
+            "plot":"Filled with heart, humor, and wit, WAR ROOM follows Tony and Elizabeth Jordan, a couple who seemingly have it all-great jobs, a beautiful daughter, their dream home. But appearances can be deceiving. In reality, their marriage has become a war zone and their daughter is collateral damage. With guidance from Miss Clara, an older, wiser woman, Elizabeth discovers she can start fighting for her family instead of against them. As the power of prayer and Elizabeth's newly energized faith transform her life, will Tony join the fight and become the man he knows he needs to be? Together, their real enemy doesn't have a prayer.",
+            "rated":"PG",
+            "rating":"6.1",
+            "releaseDate":"20150828",
+            "runtime":[  
+               "120 min"
+            ],
+            "simplePlot":"A seemingly perfect family looks to fix their problems with the help of Miss Clara, an older, wiser woman.",
+            "title":"War Room",
+            "type":"Movie",
+            "urlIMDB":"http://www.imdb.com/title/tt3832914",
+            "urlPoster":"http://ia.media-imdb.com/images/M/MV5BMTYyNTUxMjQwNF5BMl5BanBnXkFtZTgwNDY5MDIwNTE@._V1_SX214_AL_.jpg",
+            "votes":"4,145",
+            "writers":[  
+               {  
+                  "name":"Alex Kendrick",
+                  "nameId":"nm1731937"
+               },
+               {  
+                  "name":"Stephen Kendrick",
+                  "nameId":"nm1726854"
+               }
+            ],
+            "year":"2015"
+         }
+      ]
+   }
+]
